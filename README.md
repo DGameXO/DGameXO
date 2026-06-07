@@ -15,7 +15,7 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Whoami?**
 
-Hello! I’m the **Founder & CEO of <a href="https://dgxoltd.com" target="_blank" rel="noopener noreferrer">DGXO</a> (Dream & Driven Generation eXperience Operation)**, a next gen technology ecosystem built to deliver limitless digital experiences through innovation in **Cybersecurity**, **Artificial Intelligence**, and **Website Development**.
+Hello! I’m the **Founder of <a href="https://dgxoltd.com" target="_blank" rel="noopener noreferrer">DGXO</a> (Dream & Driven Generation eXperience Operation)**, a next gen technology ecosystem built to deliver limitless digital experiences through innovation in **Cybersecurity**, **Artificial Intelligence**, and **Website Development**.
 
 Under **DGXO**, I lead several pioneering projects such as **DGXO Command Hub**, **Codify**, **MashaAI**, **RexCell**, and **DGXOS**, merging technical precision with creative engineering to shape secure and intelligent systems.
 
