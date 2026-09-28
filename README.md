@@ -14,5 +14,5 @@ Bug bounty @ HackerOne · handle: [pintuback](https://hackerone.com/pintuback)
 
 ## Contact
 
-- **Email:** [contact@dgxo.my.id](mailto:contact@dgxohq.com)
+- **Email:** [contact@dgxohq.com](mailto:contact@dgxohq.com)
 - **LinkedIn:** [dikakurniarahmansyah](https://www.linkedin.com/in/dikakurniarahmansyah)
