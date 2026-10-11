@@ -2,7 +2,7 @@
 
 Self-taught IT practitioner. Building infrastructure, tools, and open-source software.
 
-Bug bounty @ HackerOne · handle: [pintuback](https://hackerone.com/pintuback)
+Bug bounty @ HackerOne · handle: PintuBack
 
 ---
 
